@@ -1,0 +1,1 @@
+A discord bot written in Rust in order to teach myself Rust. Adapted from the basic !ping Pong! bot in the Serendipity library to make an echo bot and expand capability to perform dice rolls and summations of several rolls. This bot will continue to be adapted for DnD style gameplay within a discord server.
